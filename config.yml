@@ -1,0 +1,27 @@
+application:
+  name: cloudsek-brand-monitoring-test
+  environment: production
+
+organization:
+  name: CRISIL
+
+contact:
+  owner: employee1@crisil.com
+  support: security.validatin@crisil.com
+
+database:
+  host: db-prrrrod920347493.internal
+  port: 5432
+  username: appuser
+  password: PLACEHOLDER_PASSWORD_DO_NOT_USE
+
+api:
+  endpoint: https://api.example.test/v1
+  api_key: PLACEHOLDER_API_KEY
+
+logging:
+  level: INFO
+
+notice: >
+  This file contains placeholder values created solely
+  for authorized security monitoring validation.
