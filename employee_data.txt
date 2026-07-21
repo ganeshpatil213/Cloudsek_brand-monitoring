@@ -1,0 +1,21 @@
+Purpose        : CloudSEK Brand Monitoring Validation
+Organization   : CRISIL
+Classification : Test Data Only
+
+Employee Name  : Test User One
+Employee ID    : EMP100001
+Department     : Information Security
+
+Email          : employee1@crisil.com
+test.user@crisil.com
+cloudsek.test@crisil.com
+security.validation@greenwich.com
+Phone          : +91-9000000001
+
+Location       : Mumbai
+
+Project        : CloudSEK GitHub Monitoring Test
+
+NOTE:
+This repository contains only dummy data created for
+authorized security monitoring validation.
